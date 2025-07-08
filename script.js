@@ -1,10 +1,4 @@
-// const API_KEY = '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';
-// variant 2
-const API_KEY = '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';
-
-
-// const API_KEY = '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';
-
+const API_KEY = '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';
 
 const content = document.getElementById('content');
 const chatInput = document.getElementById('chatInput');
