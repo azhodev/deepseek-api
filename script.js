@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = 'sk-or-..';
 
 const content = document.getElementById('content');
 const chatInput = document.getElementById('chatInput');
